@@ -5,7 +5,7 @@
 
 <!-- Social Badges -->
 <a href="[https://www.linkedin.com](https://www.linkedin.com/in/alaa-khaled-/)">
-<img src="https://img.shields.io/badge/-Alaa%20Khaled-blue?style=flat-square&logo=Linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 
 <a href="mailto:alaa.khalidd.mohammed@gmail.com">
@@ -76,7 +76,7 @@ I love exploring tools, improving software quality, and continuously learning ne
   <li>Testing add/delete items, totals, empty cart</li>
   <li>POM structure</li>
   <br>
-    🔗 <a href="https://github.com/alaa20khaled/ALX2_SWD6_G1_GROUP1/tree/main/TestAutomationProject">View on GitHub</a>
+    🔗 <a href="https://github.com/alaa20khaled/DemoBlaze-Automation-Java-Selenium-TestNG.git">View on GitHub</a>
  
 </ul>
 
@@ -84,7 +84,7 @@ I love exploring tools, improving software quality, and continuously learning ne
 <ul>
   <li>Test design, execution, bug reporting</li>
   <br>
-    🔗 <a href="https://github.com/alaa20khaled/ALX2_SWD6_G1_GROUP1/blob/main/ManualTestingOpenCart.xlsx">View on GitHub</a>
+    🔗 <a href="https://github.com/alaa20khaled/OpenCart-Project.git">View on GitHub</a>
   
 </ul>
 
