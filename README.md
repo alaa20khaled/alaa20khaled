@@ -83,7 +83,7 @@ I love exploring tools, improving software quality, and continuously learning ne
 <h3>🛒 Automation Execrise Website — Automation Project</h3>
 <ul>
   <li>Selenium + Java + TestNG</li>
-  <li></li>
+
   <li>POM structure</li>
   <br>
     🔗 <a href="https://github.com/alaa20khaled/Automation_Exercise_Project.git">View on GitHub</a>
