@@ -21,10 +21,10 @@ I love exploring tools, improving software quality, and continuously learning ne
 <h2> 👩‍💻 About Me</h2>
 <ul>
   <li>🎓 graduate – Faculty of Science,Computer Science Department, Alexandria University (2024)</li>
-  <li>🧪 Manual Tester & Automation Learner (Selenium + Java)</li>
+  <li>🧪 Manual Tester & Automation Tester (Selenium + Java)</li>
   <li>🔍 Interested in API Testing, SDLC, Agile, CI/CD</li>
-  <li>🌱 Currently learning: Git/GitHub, Jenkins, REST Assured, JMeter</li>
-  <li>🎯 Goal: Becoming a strong QA Engineer</li>
+  <li>🌱 Currently learning:  Jenkins, REST Assured, JMeter</li>
+  <li>🎯 Goal: Becoming a strong Software Tester Engineer</li>
 </ul>
 
 <h2> ⚡ Technologies & Tools</h2>
@@ -77,6 +77,16 @@ I love exploring tools, improving software quality, and continuously learning ne
   <li>POM structure</li>
   <br>
     🔗 <a href="https://github.com/alaa20khaled/DemoBlaze-Automation-Java-Selenium-TestNG.git">View on GitHub</a>
+ 
+</ul>
+
+<h3>🛒 Automation Execrise Website — Automation Project</h3>
+<ul>
+  <li>Selenium + Java + TestNG</li>
+  <li></li>
+  <li>POM structure</li>
+  <br>
+    🔗 <a href="https://github.com/alaa20khaled/Automation_Exercise_Project.git">View on GitHub</a>
  
 </ul>
 
