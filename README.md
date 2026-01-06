@@ -87,8 +87,6 @@ Selenium WebDriver | TestNG | Java | Maven | Allure Report
 
 🔗 Project Repo:  
  🔗 <a href="https://github.com/alaa20khaled/Automation_Exercise_Project.git">View on GitHub</a>
-https://github.com/alaa20khaled/Automation_Exercise_Project.git
-</ul>
 
 <h3>🛒 DemoBlaze — Automation Project</h3>
 <ul>
