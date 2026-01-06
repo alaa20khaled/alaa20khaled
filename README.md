@@ -62,8 +62,30 @@ Selenium • TestNG • Postman • Java • ISTQB Fundamentals
 </ul>
 
 
-
 <h2> 🚀 Featured Projects</h2>
+## 🤖 Automation Testing Projects
+
+<h3> Automation Exercise – Selenium Automation</h3>
+<ul>
+- Automated end-to-end test scenarios for an e-commerce website
+- Covered:
+  - Login & Logout
+  - Add to Cart
+  - Remove Products
+  - Cart Validation
+- Implemented **Page Object Model (POM)** design pattern
+- Integrated **Allure Report** for professional test reporting
+  - Test execution details
+  - Severity levels
+  - Feature & Story classification
+  - Screenshots on failure
+
+🛠 Tech Stack:
+Selenium WebDriver | TestNG | Java | Maven | Allure Report
+
+🔗 Project Repo:  
+https://github.com/alaa20khaled/Automation_Exercise_Project.git
+</ul>
 
 <h3>🛒 DemoBlaze — Automation Project</h3>
 <ul>
