@@ -84,8 +84,7 @@ I am Alaa Khaled, a Software Testing Engineer with experience in Manual, API, an
 
 🛠 Tech Stack:
 Selenium WebDriver | TestNG | Java | Maven | Allure Report
-
-🔗 Project Repo:  
+ 
  🔗 <a href="https://github.com/alaa20khaled/Automation_Exercise_Project.git">View on GitHub</a>
 
 <h3>🛒 DemoBlaze — Automation Project</h3>
