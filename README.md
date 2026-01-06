@@ -13,9 +13,9 @@
 </a>
 
 <p>
-I am <b>Alaa Khaled</b> .  
-Software Testing Engineer | Manual, API & Automation Testing
-Selenium • TestNG • Postman • Java • ISTQB Fundamentals
+
+I am Alaa Khaled, a Software Testing Engineer with experience in Manual, API, and Automation Testing.
+
 </b> 
 
 </p>
@@ -44,6 +44,8 @@ Selenium • TestNG • Postman • Java • ISTQB Fundamentals
   <li>TestNG</li>
   <li>Page Object Model (POM)</li>
   <li>Writing XPath & CSS selectors</li>
+  <li>Allure Report (TestNG integration, screenshots on failure)</li>
+
 </ul>
 
 <h3>🔸 API Testing</h3>
