@@ -14,8 +14,10 @@
 
 <p>
 I am <b>Alaa Khaled</b> .  
-A passionate <b>Software Tester</b> from Egypt.  
-I love exploring tools, improving software quality, and continuously learning new things in testing, automation, and QA practices.
+Software Testing Engineer | Manual, API & Automation Testing
+Selenium • TestNG • Postman • Java • ISTQB Fundamentals
+</b> 
+
 </p>
 
 <h2> 👩‍💻 About Me</h2>
@@ -59,14 +61,7 @@ I love exploring tools, improving software quality, and continuously learning ne
   <li>HTML / CSS basics</li>
 </ul>
 
-<h2> 📚 Certifications & Learning</h2>
-<ul>
-  <li>✔️ Selenium WebDriver — QAcart</li>
-  <li>✔️ SQL Certificate — QAcart </li>
-  <li>✔️ Java Programming — Test Automation University</li>
-  <li>✔️ Studying ISTQB FL (V4)</li>
-  <li>🎓 6-month Digital Egypt Pioneers Initiative | Software Testing Trainee (Manual + API + Automation)</li>
-</ul>
+
 
 <h2> 🚀 Featured Projects</h2>
 
@@ -103,6 +98,14 @@ I love exploring tools, improving software quality, and continuously learning ne
   <li>Positive, negative, and edge cases</li>
     <br>
     🔗 <a href="https://github.com/alaa20khaled/ALX2_SWD6_G1_GROUP1/blob/main/ManualTestingOpenCart.xlsx">View on GitHub</a>
+</ul>
+<h2> 📚 Certifications & Learning</h2>
+<ul>
+  <li>✔️ Selenium WebDriver — QAcart</li>
+  <li>✔️ SQL Certificate — QAcart </li>
+  <li>✔️ Java Programming — Test Automation University</li>
+  <li>✔️ Studying ISTQB FL (V4)</li>
+  <li>🎓 6-month Digital Egypt Pioneers Initiative | Software Testing Trainee (Manual + API + Automation)</li>
 </ul>
 
 
